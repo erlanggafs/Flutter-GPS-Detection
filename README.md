@@ -1,1 +1,3 @@
+Flutter GPS Detection adalah sebuah fitur yang memungkinkan pengembang aplikasi menggunakan Flutter untuk mengakses informasi lokasi secara real-time pada perangkat pengguna. Dengan menggunakan plugin atau paket khusus yang telah disediakan untuk Flutter, pengembang dapat dengan mudah mengintegrasikan kemampuan deteksi GPS ke dalam aplikasi mereka.
 
+Fitur GPS Detection pada Flutter memungkinkan pengguna aplikasi untuk berinteraksi dengan layanan lokasi perangkat, seperti menentukan lokasi saat ini, melacak pergerakan, dan mendapatkan pembaruan lokasi secara periodik. Pengembang dapat menggunakan API yang disediakan untuk mengakses data lokasi, seperti koordinat geografis (latitude dan longitude), kecepatan, ketinggian, dan akurasi posisi.
